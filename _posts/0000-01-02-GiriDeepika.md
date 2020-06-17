@@ -1,7 +1,7 @@
 ---
 
 layout: slide
-title: "Welcome to second slide"
+title: "Welcome back to the second slide"
 
 ---
 
